@@ -8,4 +8,4 @@ We will also discuss the ethical concerns surrounding AI-enabled innovation and 
 
 Throughout this book, we aim to provide readers with a comprehensive understanding of AI-driven innovation and its potential to transform modern businesses. Whether you are a business owner, manager, or executive, this book will offer valuable insights into the latest trends and best practices for leveraging AI in your organization.
 
-MingHai Zheng is a writer based in Wuhan, China, who focuses on writing articles about workplace and management topics. He has written hundreds of articles on these topics and is dedicated to sharing his insights and experiences with others who are interested in improving their careers and their businesses.
+MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
