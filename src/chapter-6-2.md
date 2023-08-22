@@ -1,5 +1,4 @@
-Automated Customer Segmentation and Targeting Using AI
-===========================================================================================================
+
 
 One of the key areas where AI can revolutionize modern businesses is in marketing and sales. Automated customer segmentation and targeting using AI can help businesses to streamline their marketing efforts and better target their customers.
 

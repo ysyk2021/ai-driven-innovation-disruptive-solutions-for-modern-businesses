@@ -1,5 +1,4 @@
-Personalized Recommendation Systems for Supplier Selection and Procurement using AI
-=========================================================================================================================================
+
 
 Supply chain management is a critical aspect of modern business operations, and AI presents new opportunities for improving supply chain efficiency and effectiveness. In this chapter, we will explore how organizations can leverage AI to develop personalized recommendation systems for supplier selection and procurement.
 
